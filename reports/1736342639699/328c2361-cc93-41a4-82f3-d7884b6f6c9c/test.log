@@ -1,0 +1,15 @@
+[2025-01-08 01:24:01] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-01-08 01:24:01] [1] [INFO] TEST [carinawebautomation - test [L01]] STARTED at [10:24:01 2025-01-08]
+[2025-01-08 01:24:01] [1] [INFO] Starting driver session...
+[2025-01-08 01:24:01] [1] [INFO] Set Chrome language to: en
+[2025-01-08 01:24:03] [1] [INFO] Driver session started.
+[2025-01-08 01:24:05] [1] [INFO] URL 'https://automationexercise.com/' opened
+[2025-01-08 01:24:06] [1] [INFO] Checking if the homepage is visible successfully
+[2025-01-08 01:24:06] [1] [INFO] navigating to auth section
+[2025-01-08 01:24:07] [1] [INFO] PASS: element 'authSectionButton' is clicked.
+[2025-01-08 01:24:08] [1] [INFO] verifying if title login is present
+[2025-01-08 01:24:08] [1] [INFO] typing credentials
+[2025-01-08 01:24:08] [1] [INFO] PASS: keys 'qwerty7@gmail.com' are sent to element 'emailInput'.
+[2025-01-08 01:24:09] [1] [INFO] PASS: keys 'qwerty123' are sent to element 'passwordInput'.
+[2025-01-08 01:24:10] [1] [INFO] PASS: element 'loginButton' is clicked.
+[2025-01-08 01:24:11] [1] [INFO] TEST [carinawebautomation - test [L01]] PASSED at [10:24:11 2025-01-08]

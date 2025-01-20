@@ -1,0 +1,17 @@
+[2025-01-08 01:22:39] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=http://automationexercise.com
+browser_language=en
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserName=chrome
+===============================================
+
+[2025-01-08 01:22:39] [1] [WARN] Reporting disabled: using no op test run registrar

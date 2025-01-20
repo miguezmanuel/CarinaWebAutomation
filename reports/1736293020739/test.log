@@ -1,0 +1,26 @@
+[2025-01-07 11:37:00] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://www.automationexercise.com/
+browser_language=en
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserName=chrome
+===============================================
+
+[2025-01-07 11:37:00] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-01-07 11:37:02] [1] [INFO] [TestNG] Running:
+  /Users/manumiguez/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+[2025-01-07 11:37:02] [1] [INFO] Set thread-count=1
+[2025-01-07 11:37:02] [1] [INFO] Set data-provider-thread-count=1
+[2025-01-07 11:37:02] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2025-01-08 12:02:04] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2025-01-08 12:02:04] [1] [INFO] RESULT #1: TEST [carinawebautomation - loginTest [L01]] FAIL [log=file:///Users/manumiguez/Documents/Code/Java/Test/carinawebautomation/./reports/1736293020739/83dd8072-36bc-4cc4-b838-2e06d94fc88a/test.log]
+[2025-01-08 12:02:04] [1] [INFO] RESULT #2: TEST [carinawebautomation - loginTest [L02]] FAIL [log=file:///Users/manumiguez/Documents/Code/Java/Test/carinawebautomation/./reports/1736293020739/541759ff-8910-40db-bbcb-f4489de87826/test.log]

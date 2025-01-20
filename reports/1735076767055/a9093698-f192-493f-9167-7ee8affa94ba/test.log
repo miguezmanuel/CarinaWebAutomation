@@ -1,4 +1,0 @@
-[2024-12-24 09:46:08] [1] [WARN] Reporting disabled: using no op test run registrar
-[2024-12-24 09:46:08] [1] [INFO] TEST [carinawebautomation - checkLocationChangeZipCodeErrorTextTest] STARTED at [18:46:08 2024-12-24]
-[2024-12-24 09:46:08] [1] [INFO] Starting driver session...
-[2024-12-24 09:46:08] [1] [INFO] Set Chrome language to: en

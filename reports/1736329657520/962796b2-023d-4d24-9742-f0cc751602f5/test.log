@@ -1,0 +1,4 @@
+[2025-01-08 09:47:38] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-01-08 09:47:38] [1] [INFO] TEST [carinawebautomation - loginTest [L01]] STARTED at [06:47:38 2025-01-08]
+[2025-01-08 09:47:38] [1] [INFO] Starting driver session...
+[2025-01-08 09:47:38] [1] [INFO] Set Chrome language to: en
